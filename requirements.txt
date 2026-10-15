@@ -1,0 +1,9 @@
+python-docx
+pandas
+openpyxl
+chromadb
+sentence-transformers
+ollama
+langchain
+langchain-community
+langchain-text-splitters
